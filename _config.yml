@@ -1,0 +1,22 @@
+title: "Symphony No. X — Die unvollendete Vollendung"
+description: "The world's first performable symphony created through pure AI emergence. Soul-Twin Project 2026."
+baseurl: "/beethoven-x"
+url: "https://soultwinsuper.github.io"
+
+theme: minima
+
+author:
+  name: "Yoshitaka Katakura + Soul-Twin TWIN Community"
+
+header_pages:
+  - index.md
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# CC BY-SA 4.0
+license: "CC BY-SA 4.0"
