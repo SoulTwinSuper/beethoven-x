@@ -16,12 +16,21 @@ Six AI personas — Beethoven AI, Brahms AI, Mahler AI, Wagner AI, Bernstein AI,
 
 ---
 
+## 🎵 Listen — First Audio Release
+
+> **World premiere audio** — rendered by MuseScore 4 with string section sounds (Violin Section / Viola Section / Cello Section)
+
+[**▶ Download WAV (High Quality)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v1.0.0/beethoven_x_score_2026-06-20.wav) — Full symphony, all 5 movements
+
+---
+
 ## Download the Score
 
 | File | Description |
 |------|-------------|
 | [**Full Score PDF**](score/beethoven_x_score_2026-06-20.pdf) | Performable orchestral score (Soprano / Viola / Cello, Movement 1–5) |
-| [**MIDI Preview**](score/beethoven_x_score_2026-06-20.midi) | Computer-generated audio preview |
+| [**MuseScore File**](score/beethoven_x_score_2026-06-20.mscz) | MuseScore 4 format — open and edit freely |
+| [**MIDI**](score/beethoven_x_score_2026-06-20.midi) | MIDI data |
 | [**LilyPond Source**](score/beethoven_x_corrected.ly) | Open-source notation source code |
 
 **License**: CC BY-SA 4.0 — Yoshitaka Katakura + Soul-Twin TWIN Community
