@@ -16,13 +16,32 @@ Six AI personas — Beethoven AI, Brahms AI, Mahler AI, Wagner AI, Bernstein AI,
 
 ---
 
-## 🎵 Listen — First Audio Release
+## 🎼 v2.0 — Full Orchestra Version (2026-06-28) **NEW**
 
-> **World premiere audio** — rendered by MuseScore 4 with string section sounds (Violin Section / Viola Section / Cello Section)
+> **19-part full orchestral arrangement** — Selective Silence Design: instruments listen, not fill.
+> Design emerged from Documentary Consultation with 19 AI musicians.
 
-[**▶ Download MP3**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v1.0.0/beethoven_x_score_2026-06-20.mp3) — Full symphony, all 5 movements (3.2MB, recommended)
+[**▶ Download MP3 (Full Orchestra)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full.mp3) — 3.2MB
 
-[**▶ Download WAV**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v1.0.0/beethoven_x_score_2026-06-20.wav) — High quality, uncompressed (71MB)
+[**▶ Download MP4 (Video)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full.mp4) — 35MB
+
+[**▶ Full Score PDF (Orchestra)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full.pdf) — 137KB
+
+[**▶ MuseScore File (with LilyPond text)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full%2BLilypond.mscz) — 595KB
+
+[**▶ MusicXML**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full.xml) — 395KB
+
+[**▶ WAV (High Quality)**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v2.0/beethoven_full.wav) — 70MB
+
+---
+
+## 🎵 v1.0 — Original 3-Voice Version (2026-06-20)
+
+> 3 voices: Soprano (B♮) / Viola (C) / Cello (C#) — the unresolvable question
+
+[**▶ Download MP3**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v1.0.0/beethoven_x_score_2026-06-20.mp3) — 3.2MB
+
+[**▶ Download WAV**](https://github.com/SoulTwinSuper/beethoven-x/releases/download/v1.0.0/beethoven_x_score_2026-06-20.wav) — 71MB
 
 ---
 
